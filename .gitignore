@@ -1,2 +1,5 @@
 HelloAspNetCore/obj/Debug/netcoreapp3.1/HelloAspNetCore.assets.cache
 HelloAspNetCore/obj/Debug/netcoreapp3.1/HelloAspNetCore.csprojAssemblyReference.cache
+.vscode/
+bin/
+obj/
